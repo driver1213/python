@@ -42,19 +42,24 @@
 #     print("Bye")
 
 #4
-# height = (input("What is the height?"))
-# width = (input("What is the width?"))
-# print(len(height), len(width))
-
+# height = int(input("What is the height?"))
+# width = int(input("What is the width?"))
+# print("*" * width)
+# for i in range(height - 2):
+#     print("*" + " " * (width - 2) + "*")
+# print("*" * width)
 
 
 
 #5
-
+# n=7
+# for i in range(n):
+#     print(' '*n, end=' ')
+#     print('* '* (i))
+#     n-=1
 
 #6
-# num = int(input("Enter the number: "))
-
-# print("Multiplication Table of", num)
 # for i in range(1, 11):
-#    print(num,"X",i,"=",num * i)
+#     for n in range(1, 11):
+#         result = i * n
+#         print(str(i) + " " + "x " + str(n) + str(result))
