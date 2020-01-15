@@ -129,3 +129,46 @@
 #     break
 # print("Cheese")
 
+# numbers = [1, 2, 3, 4, 5]
+# #print(number [1])
+
+# number_elements = len(number)
+# numbers[0] =  "Monday"
+
+# print(numbers)
+
+
+# todos = ["pet the cat", "go to work", "shop for groceries", 
+# "go home", "feed the cat"]
+# todos.append("binge watch a show")
+# todos.append("go to sleep")
+
+# index = 0
+# while index < len(todos):
+#     print(f'{index + 1} : {todos[index]}') #if you add {index +1}it will show 1 when printed
+#     index += 1
+
+# to_do = []
+# new_list = input("Add new list:")
+# enter = ""
+# while to_do is True:
+#     print(to_do.append(new_list))
+# if to_do is False:
+#     print(to_do)
+
+# list1 = []
+# to_add = input("Add items to the list.")
+# while len(to_add) > 0:
+#     list1.extend([to_add])
+#     print(list1)
+#     to_add = input("Add itmes to the list ")
+# print(list1)
+
+
+# numbers = [1, 2, 3, 4, 5]
+
+# new_nums = 
+
+# mixed_list = [1, 4, 7, 2, 8]
+# mixed_list.sort()
+# print(mixed_list)
