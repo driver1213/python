@@ -117,11 +117,11 @@
 #     print("The count is ", count)
 
 
-answer = ''
-while answer != 'when':
-  answer = input('Say when: ')
-  answer = answer.lower()
-print("Cheese")
+# answer = ''
+# while answer != 'when':
+#   answer = input('Say when: ')
+#   answer = answer.lower()
+# print("Cheese")
 
 # while True:
 #   answer = input('Say when: ')
