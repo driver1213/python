@@ -60,3 +60,4 @@
 #     for inner in range(1, 11):
 #         result = outer * inner
 #         print(f'{str(outer)} x {str(inner)} = {str(result)}')
+
