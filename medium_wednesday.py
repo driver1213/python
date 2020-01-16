@@ -83,7 +83,7 @@
 
 
 
-#7 (Not completed)
+#7 (Not completed yet)
 # def caesar_encrypt(realText, step):
 # 	outText = []
 # 	cryptText = []
