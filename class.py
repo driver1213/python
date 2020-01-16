@@ -172,3 +172,49 @@
 # mixed_list = [1, 4, 7, 2, 8]
 # mixed_list.sort()
 # print(mixed_list)
+
+# count - 0 
+# while count < 3:
+#     print('Hello')
+#     count +=1
+
+# alphabet = "abcdefghijklmnopqrstuvwxyz"
+# for variable in alphabet:
+#     print("Hello") #will print Hello 26 times 
+    # if you print("variable") it will print each letter in alphabet
+    #if you want a determined set of values use slicing method
+    #ex. number = [1,2,3,4,5,6]
+    #new_list = [1:] will start at 2
+
+# for variable in range(10):
+#         square = (variable+1)*(variable+1)
+#         print(square) #variale will start at 0 up to 9
+# for variable in range(5, 10): #will start at 5 up to 9
+# for variable in range(5,10,2): #will start at 5 increment by to 2 and stop at 9
+
+# students = ["matt", "foorkan", "alex", "mary"]
+# for variable in students:
+#     print(variable) #will print matt, foorkan, alex, mary
+
+
+
+# for outter_variable in range(3): #outer loop
+#     for inner_variable in range(5): #inner loop
+#         print(outter_variable, inner_variable)
+
+# for outer in range(1, 11): #outer loop
+#     for inner in range(1, 11): #inner loop
+#         result = outer * inner   # here is the multiplication of outer * inner
+#         print(f"{outer} x {inner} = {result}")
+
+# list1 = ["Week1", "Week2", "Week3", "Week4", "Week5"]
+# list2 = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+# list3 = ["lessons", "exercises"]
+# for i in range(len(list1)):
+#     print(list1[i] + ":")
+#     for x in range(len(list2)):
+#         print(list2[x] + " = ") #when in doubt just start printing
+#         for y in range(len(list3)):
+#             print(list3[y])
+
+

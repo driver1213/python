@@ -59,7 +59,7 @@
 #     n-=1
 
 #6
-# for i in range(1, 11):
-#     for n in range(1, 11):
-#         result = i * n
-#         print(str(i) + " " + "x " + str(n) + str(result))
+# for i in range(1, 11): #outer loop
+#     for n in range(1, 11): #inner loop
+#         result = i * n   # here is the multiplication of outer * inner
+#         print(str(i) + " " + "x " + str(n) + str(result))  # print(f"{outer} x {inner} = {result}")
